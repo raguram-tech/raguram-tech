@@ -1,4 +1,4 @@
-### <div align="center" style="margin: 10px;font-size: 40px;">Gandhamathan <span style="font-size: 20px;"> Full Stack developer</span></div>
+### <div align="center" style="margin: 10px;font-size: 40px;">RAGURAM <span style="font-size: 20px;"> Full Stack developer</span></div>
 
 <h1 style="font-size:32px;
   font-weight: bold;">
@@ -7,15 +7,13 @@
 
 <div style="margin:40px 0px;display:flex;gap:10px;">
 
-<img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" align="center"  height="" width="50%" />
+<img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" align="center"  height="" width="100%" />
 
 <div>
 <ul style=" list-style-type: none;display:flex;flex-direction:column;justify-content: space-evenly;height:100%;font-size:18px">
 <li>🎓  B.E, Computer Science Engineering at Kongu Engineering College, India</li>
-<li>🏢  Currently studuying Cloud</li>
+<li>🏢  Currently studuying Docker</li>
 <li>🎗️  Working on Web Development</li>
-<li>🎖️  Project for Erode district <a href="https://www.nilam.netlify.app">Nilam</a></li>
-<li>🙊  Can speak in Tamil, English</li>
 </ul>
 </div>
 
@@ -53,60 +51,3 @@
 <br>
 <div style="display:flex;gap:20px">
 <div >
-
-![](https://github-readme-stats.vercel.app/api?username=gandhamathanv&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
-
-</div>
-<div>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=gandhamathanv&theme=gotham&hide_border=false)
-
-</div>
-
-</div>
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gandhamathanv&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## </div>
-
-<br>
-<h1 style="font-size:32px;
-  font-weight: bold;">
-🏆 GitHub Trophies
-
-</h1>
-
-![](https://github-profile-trophy.vercel.app/?username=gandhamathanv&theme=radical&no-frame=true&no-bg=true&margin-w=1)
-
----
-
-<!--
-[![](https://visitcount.itsvg.in/api?id=gandhamathanv&icon=6&color=4)](https://visitcount.itsvg.in)
-
---- -->
-<!-- <div class="card">
-  <img src="" alt="Avatar" style="width:100%">
-  <div class="container">
-    <h4><b>John Doe</b></h4>
-    <p>Architect & Engineer</p>
-  </div>
-</div>
-<style>
-.card {
-    width:300px;
-  /* Add shadows to create the "card" effect */
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  transition: 0.3s;
-}
-
-/_ On mouse-over, add a deeper shadow _/
-.card:hover {
-box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-}
-
-/_ Add some padding inside the card container _/
-.container {
-padding: 2px 16px;
-}
-</style> -->
