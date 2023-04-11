@@ -1,4 +1,4 @@
-### <div align="center" style="margin: 10px;font-size: 40px;">RAGURAM <span style="font-size: 20px;"> Full Stack developer</span></div>
+### <div align="center" style="margin: 10px;font-size: 40px;">RAGURAM -<span style="font-size: 20px;"> Web Developer</span></div>
 
 <h1 style="font-size:32px;
   font-weight: bold;">
@@ -11,7 +11,7 @@
 
 <div>
 <ul style=" list-style-type: none;display:flex;flex-direction:column;justify-content: space-evenly;height:100%;font-size:18px">
-<li>🎓  B.E, Computer Science Engineering at Kongu Engineering College, India</li>
+<li>🎓  B.E, CSE at Kongu Engineering College, India</li>
 <li>🏢  Currently studuying Docker</li>
 <li>🎗️  Working on Web Development</li>
 </ul>
