@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raguram</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 
-{*- 🌱 I’m currently learning **Docker** *}
+
 
 - 📫 How to reach me **p.raguram121@gmail.com**
 
